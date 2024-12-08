@@ -2,16 +2,13 @@
   "name": "flowbite-react-template-nextjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Romeo-Jr.github.io/whoami",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "format": "prettier . --write",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit",
-    "export": "next export",
-    "deploy": "gh-pages -d out"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "flowbite-react": "^0.8.0",
