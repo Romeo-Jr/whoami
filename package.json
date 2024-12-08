@@ -2,7 +2,7 @@
   "name": "flowbite-react-template-nextjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romeo0101.github.io/whoami",
+  "homepage": "https://Romeo-Jr.github.io/whoami",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
